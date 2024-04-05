@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Sir-mjd 😁
+## Welcome to Sir-mjd's profile! 
 
  <div>
    <a href="https://github.com/Sir-mjd">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Para mais conteúdos sobre Matemática, Reforço Escolar e Programação, me segue nas redes abaixo!
+### For more content on math, tutoring and programming, follow me on the networks below!
  
 <div> 
   <a href="https://www.youtube.com/@marciliojose8186" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
